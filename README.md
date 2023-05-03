@@ -3,6 +3,8 @@
 
 ```
 pip install -r requirements.txt
+
+Alternatively, use PyCharm and allow it to automatically install the required dependancies -- 
 ```
 
 ```python
