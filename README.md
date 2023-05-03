@@ -4,7 +4,7 @@
 ```
 pip install -r requirements.txt
 
-Alternatively, use PyCharm and allow it to automatically install the required dependancies -- 
+Alternatively, download the zip & use PyCharm -- 
 ```
 
 ```python
